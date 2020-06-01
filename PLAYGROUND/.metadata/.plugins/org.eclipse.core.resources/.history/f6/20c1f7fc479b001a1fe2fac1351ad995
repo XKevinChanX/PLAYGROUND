@@ -1,0 +1,21 @@
+<html>
+   <head>
+      <title>The include Action Example</title>
+   </head>
+   
+   <body>
+      <center>
+         <h2>The include action Example</h2>
+         <jsp:include page = "date.jsp" flush = "true" />
+         <jsp:include page = "comment.jsp" flush = "true" />
+         <jsp:include page = "Expression.jsp" flush = "true" />
+         <jsp:include page = "Hello.jsp" flush = "true" />
+         <jsp:include page = "IfElse.jsp" flush = "true" />
+         <jsp:include page = "index.jsp" flush = "true" />
+         <jsp:include page = "Loop.jsp" flush = "true" />
+         <jsp:include page = "main.jsp" flush = "true" />
+         <jsp:include page = "SwitchCase.jsp" flush = "true" />
+         <jsp:include page = "While.jsp" flush = "true" />
+      </center>
+   </body>
+</html>

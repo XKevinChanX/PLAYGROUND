@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Kevin Chan\Desktop\PLAYGROUND\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3973609172.index
+1200381794.index
+1424038759.index
+532241106.index
+757990158.index
+3084525213.index

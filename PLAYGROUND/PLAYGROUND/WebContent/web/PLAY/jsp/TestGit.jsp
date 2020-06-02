@@ -6,6 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Apply some change</title>
 <title>Apply more change</title>
+<title>This is the Master</title>
 </head>
 <body>
 

@@ -7,6 +7,7 @@
 <title>Apply some change</title>
 <title>Apply more change</title>
 <title>This is the Master</title>
+<title>Create a new branch</title>
 </head>
 <body>
 

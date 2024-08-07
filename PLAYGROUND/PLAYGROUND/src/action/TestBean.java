@@ -2,7 +2,7 @@
 package action;
  
 public class TestBean {
-   private String message = "No message specified";
+   private String message = "No message specified"; // Some Changes
  
    public String getMessage() {
       return(message);
